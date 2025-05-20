@@ -30,5 +30,7 @@ public class Array_k_elemnts {
 		
 		reverseElements(arr, k, n-1);                        // another half gets reversed to main array
 		System.out.println(Arrays.toString(arr));
+
+		System.out.println("changes done here on may 19");
 	}
 }
